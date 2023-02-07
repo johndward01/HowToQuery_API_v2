@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToQuery_API_v2", "HowToQuery_API_v2\HowToQuery_API_v2.csproj", "{D2FE91D0-2E98-4205-A688-0E27C1831B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FE91D0-2E98-4205-A688-0E27C1831B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FE91D0-2E98-4205-A688-0E27C1831B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FE91D0-2E98-4205-A688-0E27C1831B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FE91D0-2E98-4205-A688-0E27C1831B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04DDC04-7AE1-4733-904B-D477343B1155}
+	EndGlobalSection
+EndGlobal
